@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/rtsh7609/leetcode/tree/master/0231-power-of-two) |
 | [2383-add-two-integers](https://github.com/rtsh7609/leetcode/tree/master/2383-add-two-integers) |
+| [2752-sum-multiples](https://github.com/rtsh7609/leetcode/tree/master/2752-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
