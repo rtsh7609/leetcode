@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rtsh7609/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rtsh7609/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/rtsh7609/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rtsh7609/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rtsh7609/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rtsh7609/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rtsh7609/leetcode/tree/master/0367-valid-perfect-square) |
@@ -96,5 +97,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rtsh7609/leetcode/tree/master/0258-add-digits) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rtsh7609/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
