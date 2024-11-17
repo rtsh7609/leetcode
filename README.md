@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rtsh7609/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rtsh7609/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/rtsh7609/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rtsh7609/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rtsh7609/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/rtsh7609/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rtsh7609/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rtsh7609/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rtsh7609/leetcode/tree/master/0263-ugly-number) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rtsh7609/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rtsh7609/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rtsh7609/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rtsh7609/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rtsh7609/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
