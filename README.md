@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rtsh7609/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rtsh7609/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rtsh7609/leetcode/tree/master/0268-missing-number) |
+| [0598-range-addition-ii](https://github.com/rtsh7609/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/rtsh7609/leetcode/tree/master/0792-binary-search) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/rtsh7609/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/rtsh7609/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/rtsh7609/leetcode/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/rtsh7609/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/rtsh7609/leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/rtsh7609/leetcode/tree/master/2383-add-two-integers) |
