@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rtsh7609/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rtsh7609/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rtsh7609/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/rtsh7609/leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rtsh7609/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0389-find-the-difference](https://github.com/rtsh7609/leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/rtsh7609/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 ## String Matching
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rtsh7609/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rtsh7609/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rtsh7609/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rtsh7609/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rtsh7609/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rtsh7609/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rtsh7609/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rtsh7609/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
