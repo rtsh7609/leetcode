@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rtsh7609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/rtsh7609/leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/rtsh7609/leetcode/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/rtsh7609/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/rtsh7609/leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/rtsh7609/leetcode/tree/master/1086-divisor-game) |
 | [2383-add-two-integers](https://github.com/rtsh7609/leetcode/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/rtsh7609/leetcode/tree/master/2752-sum-multiples) |
 ## Recursion
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rtsh7609/leetcode/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/rtsh7609/leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/rtsh7609/leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
