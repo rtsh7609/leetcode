@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/rtsh7609/leetcode/tree/master/0792-binary-search) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2756-buy-two-chocolates](https://github.com/rtsh7609/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rtsh7609/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rtsh7609/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2756-buy-two-chocolates](https://github.com/rtsh7609/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rtsh7609/leetcode/tree/master/0011-container-with-most-water) |
+| [2756-buy-two-chocolates](https://github.com/rtsh7609/leetcode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
