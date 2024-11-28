@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rtsh7609/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/rtsh7609/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rtsh7609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rtsh7609/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rtsh7609/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/rtsh7609/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/rtsh7609/leetcode/tree/master/0058-length-of-last-word) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rtsh7609/leetcode/tree/master/0011-container-with-most-water) |
 | [2756-buy-two-chocolates](https://github.com/rtsh7609/leetcode/tree/master/2756-buy-two-chocolates) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
