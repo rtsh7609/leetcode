@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rtsh7609/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rtsh7609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0516-longest-palindromic-subsequence](https://github.com/rtsh7609/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/rtsh7609/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/rtsh7609/leetcode/tree/master/1086-divisor-game) |
 ## Bit Manipulation
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rtsh7609/leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/rtsh7609/leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/rtsh7609/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/rtsh7609/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## String Matching
 |  |
 | ------- |
