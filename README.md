@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/rtsh7609/leetcode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/rtsh7609/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/rtsh7609/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/rtsh7609/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/rtsh7609/leetcode/tree/master/1086-divisor-game) |
 | [2383-add-two-integers](https://github.com/rtsh7609/leetcode/tree/master/2383-add-two-integers) |
