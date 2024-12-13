@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rtsh7609/leetcode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/rtsh7609/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/rtsh7609/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rtsh7609/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/rtsh7609/leetcode/tree/master/0231-power-of-two) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rtsh7609/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rtsh7609/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/rtsh7609/leetcode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/rtsh7609/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rtsh7609/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rtsh7609/leetcode/tree/master/0258-add-digits) |
@@ -203,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rtsh7609/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rtsh7609/leetcode/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/rtsh7609/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
