@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rtsh7609/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/rtsh7609/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rtsh7609/leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/rtsh7609/leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/rtsh7609/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rtsh7609/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rtsh7609/leetcode/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rtsh7609/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/rtsh7609/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/rtsh7609/leetcode/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/rtsh7609/leetcode/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/rtsh7609/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/rtsh7609/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rtsh7609/leetcode/tree/master/0415-add-strings) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rtsh7609/leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/rtsh7609/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rtsh7609/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rtsh7609/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rtsh7609/leetcode/tree/master/0389-find-the-difference) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rtsh7609/leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/rtsh7609/leetcode/tree/master/0179-largest-number) |
 | [2756-buy-two-chocolates](https://github.com/rtsh7609/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Backtracking
 |  |
