@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rtsh7609/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/rtsh7609/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/rtsh7609/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rtsh7609/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rtsh7609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rtsh7609/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rtsh7609/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rtsh7609/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/rtsh7609/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rtsh7609/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rtsh7609/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/rtsh7609/leetcode/tree/master/0445-add-two-numbers-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rtsh7609/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
