@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rtsh7609/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rtsh7609/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/rtsh7609/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rtsh7609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rtsh7609/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/rtsh7609/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/rtsh7609/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/rtsh7609/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rtsh7609/leetcode/tree/master/0204-count-primes) |
@@ -261,4 +263,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rtsh7609/leetcode/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
