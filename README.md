@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rtsh7609/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/rtsh7609/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/rtsh7609/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rtsh7609/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
