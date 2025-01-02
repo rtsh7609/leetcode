@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/rtsh7609/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/rtsh7609/leetcode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/rtsh7609/leetcode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/rtsh7609/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/rtsh7609/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rtsh7609/leetcode/tree/master/0415-add-strings) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rtsh7609/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rtsh7609/leetcode/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/rtsh7609/leetcode/tree/master/0089-gray-code) |
+| [0257-binary-tree-paths](https://github.com/rtsh7609/leetcode/tree/master/0257-binary-tree-paths) |
 ## Enumeration
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0257-binary-tree-paths](https://github.com/rtsh7609/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -281,4 +284,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0257-binary-tree-paths](https://github.com/rtsh7609/leetcode/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/rtsh7609/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
