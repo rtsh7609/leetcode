@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/rtsh7609/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rtsh7609/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rtsh7609/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rtsh7609/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/rtsh7609/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rtsh7609/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rtsh7609/leetcode/tree/master/0075-sort-colors) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rtsh7609/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/rtsh7609/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rtsh7609/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rtsh7609/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rtsh7609/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rtsh7609/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/rtsh7609/leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/rtsh7609/leetcode/tree/master/0179-largest-number) |
 | [2756-buy-two-chocolates](https://github.com/rtsh7609/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Backtracking
