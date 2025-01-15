@@ -296,23 +296,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rtsh7609/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/rtsh7609/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rtsh7609/leetcode/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/rtsh7609/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/rtsh7609/leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rtsh7609/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/rtsh7609/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/rtsh7609/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rtsh7609/leetcode/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/rtsh7609/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rtsh7609/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/rtsh7609/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rtsh7609/leetcode/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/rtsh7609/leetcode/tree/master/0257-binary-tree-paths) |
 ## Concurrency
