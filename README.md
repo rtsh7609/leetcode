@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rtsh7609/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rtsh7609/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rtsh7609/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/rtsh7609/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/rtsh7609/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rtsh7609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rtsh7609/leetcode/tree/master/0136-single-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/rtsh7609/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/rtsh7609/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/rtsh7609/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/rtsh7609/leetcode/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/rtsh7609/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/rtsh7609/leetcode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rtsh7609/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rtsh7609/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rtsh7609/leetcode/tree/master/0079-word-search) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rtsh7609/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rtsh7609/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rtsh7609/leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/rtsh7609/leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/rtsh7609/leetcode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/rtsh7609/leetcode/tree/master/0257-binary-tree-paths) |
 ## Enumeration
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rtsh7609/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rtsh7609/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/rtsh7609/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rtsh7609/leetcode/tree/master/0099-recover-binary-search-tree) |
