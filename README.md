@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/rtsh7609/leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/rtsh7609/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/rtsh7609/leetcode/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rtsh7609/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/rtsh7609/leetcode/tree/master/0792-binary-search) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/rtsh7609/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/rtsh7609/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rtsh7609/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rtsh7609/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## String Matching
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rtsh7609/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rtsh7609/leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/rtsh7609/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rtsh7609/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
