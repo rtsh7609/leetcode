@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/rtsh7609/leetcode/tree/master/0792-binary-search) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2756-buy-two-chocolates](https://github.com/rtsh7609/leetcode/tree/master/2756-buy-two-chocolates) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/rtsh7609/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -355,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/rtsh7609/leetcode/tree/master/0506-relative-ranks) |
+## Prefix Sum
+|  |
+| ------- |
+| [3731-sum-of-variable-length-subarrays](https://github.com/rtsh7609/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
