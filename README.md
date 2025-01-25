@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rtsh7609/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rtsh7609/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rtsh7609/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/rtsh7609/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rtsh7609/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rtsh7609/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rtsh7609/leetcode/tree/master/0075-sort-colors) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rtsh7609/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rtsh7609/leetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/rtsh7609/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rtsh7609/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rtsh7609/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rtsh7609/leetcode/tree/master/0179-largest-number) |
