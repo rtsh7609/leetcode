@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rtsh7609/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rtsh7609/leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/rtsh7609/leetcode/tree/master/0202-happy-number) |
+| [0541-reverse-string-ii](https://github.com/rtsh7609/leetcode/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/rtsh7609/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/rtsh7609/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/rtsh7609/leetcode/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/rtsh7609/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/rtsh7609/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rtsh7609/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rtsh7609/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
