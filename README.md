@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rtsh7609/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rtsh7609/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/rtsh7609/leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/rtsh7609/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rtsh7609/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rtsh7609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rtsh7609/leetcode/tree/master/0136-single-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rtsh7609/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rtsh7609/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rtsh7609/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rtsh7609/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/rtsh7609/leetcode/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/rtsh7609/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rtsh7609/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rtsh7609/leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/rtsh7609/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rtsh7609/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rtsh7609/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rtsh7609/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rtsh7609/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rtsh7609/leetcode/tree/master/0217-contains-duplicate) |
