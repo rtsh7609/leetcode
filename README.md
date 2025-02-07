@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rtsh7609/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rtsh7609/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rtsh7609/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/rtsh7609/leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/rtsh7609/leetcode/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/rtsh7609/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rtsh7609/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rtsh7609/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rtsh7609/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rtsh7609/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/rtsh7609/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rtsh7609/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rtsh7609/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rtsh7609/leetcode/tree/master/0217-contains-duplicate) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rtsh7609/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/rtsh7609/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rtsh7609/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rtsh7609/leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/rtsh7609/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rtsh7609/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/rtsh7609/leetcode/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/rtsh7609/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
@@ -400,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/rtsh7609/leetcode/tree/master/0593-valid-square) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rtsh7609/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
