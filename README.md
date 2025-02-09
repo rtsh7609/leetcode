@@ -411,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rtsh7609/leetcode/tree/master/0148-sort-list) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/rtsh7609/leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
