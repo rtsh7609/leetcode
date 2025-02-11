@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rtsh7609/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/rtsh7609/leetcode/tree/master/0792-binary-search) |
+| [0919-projection-area-of-3d-shapes](https://github.com/rtsh7609/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2756-buy-two-chocolates](https://github.com/rtsh7609/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3188-find-champion-i](https://github.com/rtsh7609/leetcode/tree/master/3188-find-champion-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/rtsh7609/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rtsh7609/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0919-projection-area-of-3d-shapes](https://github.com/rtsh7609/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/rtsh7609/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/rtsh7609/leetcode/tree/master/1086-divisor-game) |
 | [2383-add-two-integers](https://github.com/rtsh7609/leetcode/tree/master/2383-add-two-integers) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rtsh7609/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rtsh7609/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rtsh7609/leetcode/tree/master/0079-word-search) |
+| [0919-projection-area-of-3d-shapes](https://github.com/rtsh7609/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3188-find-champion-i](https://github.com/rtsh7609/leetcode/tree/master/3188-find-champion-i) |
 ## Simulation
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/rtsh7609/leetcode/tree/master/0593-valid-square) |
+| [0919-projection-area-of-3d-shapes](https://github.com/rtsh7609/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 ## Merge Sort
 |  |
 | ------- |
