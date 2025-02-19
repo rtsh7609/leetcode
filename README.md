@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/rtsh7609/leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/rtsh7609/leetcode/tree/master/0182-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/rtsh7609/leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/rtsh7609/leetcode/tree/master/0595-big-countries) |
 | [1179-game-play-analysis-i](https://github.com/rtsh7609/leetcode/tree/master/1179-game-play-analysis-i) |
 ## Heap (Priority Queue)
