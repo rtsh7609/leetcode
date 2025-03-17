@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/rtsh7609/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/rtsh7609/leetcode/tree/master/1086-divisor-game) |
 | [2383-add-two-integers](https://github.com/rtsh7609/leetcode/tree/master/2383-add-two-integers) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/rtsh7609/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2752-sum-multiples](https://github.com/rtsh7609/leetcode/tree/master/2752-sum-multiples) |
 ## Recursion
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rtsh7609/leetcode/tree/master/0204-count-primes) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/rtsh7609/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Sliding Window
 |  |
 | ------- |
