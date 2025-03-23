@@ -24,17 +24,17 @@ class Solution {
     int r[]=new int[n];
     l[0]=height[0];
     for(int i=1;i<n;i++){
-        l[i]=Math.max(height[i],l[i-1]);
+        l[i]=Math.max(l[i-1],height[i]);
     }
     r[n-1]=height[n-1];
     for(int i=n-2;i>=0;i--){
-        r[i]=Math.max(height[i],r[i+1]);
+        r[i]=Math.max(r[i+1],height[i]);
     }
     int trap=0;
     for(int i=0;i<n;i++){
         int water=Math.min(l[i],r[i]);
         trap+=water-height[i];
     }
-return trap;
+    return trap;
     }
 }
