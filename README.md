@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/rtsh7609/leetcode/tree/master/0792-binary-search) |
 | [0919-projection-area-of-3d-shapes](https://github.com/rtsh7609/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0948-sort-an-array](https://github.com/rtsh7609/leetcode/tree/master/0948-sort-an-array) |
+| [1677-matrix-diagonal-sum](https://github.com/rtsh7609/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2756-buy-two-chocolates](https://github.com/rtsh7609/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3188-find-champion-i](https://github.com/rtsh7609/leetcode/tree/master/3188-find-champion-i) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rtsh7609/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rtsh7609/leetcode/tree/master/0079-word-search) |
 | [0919-projection-area-of-3d-shapes](https://github.com/rtsh7609/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [1677-matrix-diagonal-sum](https://github.com/rtsh7609/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3188-find-champion-i](https://github.com/rtsh7609/leetcode/tree/master/3188-find-champion-i) |
 ## Simulation
