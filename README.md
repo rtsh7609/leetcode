@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rtsh7609/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rtsh7609/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0792-binary-search](https://github.com/rtsh7609/leetcode/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/rtsh7609/leetcode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/rtsh7609/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0948-sort-an-array](https://github.com/rtsh7609/leetcode/tree/master/0948-sort-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/rtsh7609/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rtsh7609/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rtsh7609/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rtsh7609/leetcode/tree/master/0079-word-search) |
+| [0898-transpose-matrix](https://github.com/rtsh7609/leetcode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/rtsh7609/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1677-matrix-diagonal-sum](https://github.com/rtsh7609/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rtsh7609/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rtsh7609/leetcode/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rtsh7609/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0898-transpose-matrix](https://github.com/rtsh7609/leetcode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rtsh7609/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
