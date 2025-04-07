@@ -7,7 +7,7 @@ class Solution {
             cs=0;
         }
         cs+=nums[i];
-        ms=Math.max(cs,ms);
+        ms=Math.max(ms,cs);
      }   
      return ms;
     }
