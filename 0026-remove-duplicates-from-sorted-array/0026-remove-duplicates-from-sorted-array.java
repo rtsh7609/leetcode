@@ -5,14 +5,16 @@ class Solution {
         int j=0;
         for(int i=0;i<n-1;i++){
             if(nums[i]!=nums[i+1]){
-            temp[j++]=nums[i];
+                temp[j++]=nums[i];
             }
         }
+        // nums[i]=temp[j++];
         temp[j++]=nums[n-1];
-        for(int i=0;i<j;i++){
+        for(int i=0;i<n;i++){
             nums[i]=temp[i];
         }
         return j;
-       
+
+
     }
 }
