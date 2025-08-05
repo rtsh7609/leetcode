@@ -10,21 +10,20 @@ class Solution {
             if(nums[si]<=nums[mid]){
                 if(nums[si]<=target && target<=nums[mid]){
                     ei=mid-1;
-                }
-                else{
+                }else{
                     si=mid+1;
                 }
             }
             else{
-                if(nums[mid]<=target && target <=nums[ei]){
+                if(nums[mid]<=target && target<=nums[ei]){
                     si=mid+1;
-                }
-                else{
+                }else{
                     ei=mid-1;
                 }
             }
 
         }
         return -1;
+        
     }
 }
